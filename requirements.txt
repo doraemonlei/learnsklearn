@@ -1,0 +1,9 @@
+dlib==19.15.0
+jupyter==1.0.0
+matplotlib==2.2.3
+numpy==1.15.1
+opencv-python==3.4.3.18
+pandas==0.23.4
+scikit-learn==0.19.2
+six==1.11.0
+
